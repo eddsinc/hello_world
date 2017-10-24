@@ -1,2 +1,2 @@
 # hello_world
-first repository
+My name is eddie and I am Junior developer trying to make my way through life; one semicolon at a time...
